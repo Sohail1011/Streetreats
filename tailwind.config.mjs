@@ -10,7 +10,7 @@ export default {
 			"bittersweet_shimmer": "#B85043",
 			"persian_red": "#B6473A",
 			"eerie_black": "#181818",
-			"gavy's_gray": "#575757",
+			"gavy_gray": "#575757",
 			"celadon": "#7ED4A7",
 			"white": "#FFFFFF",
 			"black": "#000000"
