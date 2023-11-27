@@ -2,6 +2,9 @@
 export default {
 	content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
 	theme: {
+		fontFamily: {
+			'display': ['Poppins', 'sans-serif']
+		},
 		colors: {
 			"beige": "#E6E8D2",
 			"bittersweet_shimmer": "#B85043",
