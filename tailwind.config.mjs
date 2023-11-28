@@ -13,7 +13,8 @@ export default {
 			"gavy_gray": "#575757",
 			"celadon": "#7ED4A7",
 			"white": "#FFFFFF",
-			"black": "#000000"
+			"black": "#000000",
+			"grey": "#808080"
 		},
 		extend: {},
 	},

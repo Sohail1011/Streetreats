@@ -1,15 +1,13 @@
 ---
 import { Navbar } from "../components/Navbar";
 import { Description } from "./Description";
-import PictureDescription from "./PictureDescription.astro";
+import PictureDescription from "../components/PictureDescription.astro";
 ---
 
-<header>
-    <Navbar />
-</header>
+<Navbar />
 <section class="m-10 flex items-center justify-center">
-    <Description />
-    <PictureDescription
-        url="https://www.odtap.com/wp-content/uploads/2019/03/delivery.png"
-    />
+  <Description />
+  <PictureDescription
+    url="https://www.odtap.com/wp-content/uploads/2019/03/delivery.png"
+  />
 </section>
